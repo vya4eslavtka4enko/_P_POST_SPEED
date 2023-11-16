@@ -1,0 +1,5 @@
+PROMISED_DOWN = 150
+PROMISED_UP = 10
+CHROME_DRIVER_PATH = ''
+TWITTER_EMAIL = 'vya4eslav.tka4enko@gmail.com'
+TWITTER_PASS = ''
